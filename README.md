@@ -1,4 +1,4 @@
-# Fine-tune-SAM-for-Cellar-Images-Segmentation
+# Fine-tune-SAM-for-Cellular-Images-Segmentation
 
 In this project, we go through the process of fine-tuning Meta AI’s Segment
 Anything state-of-art model in segmentation tasks on EPFL’s Electron Mi-
